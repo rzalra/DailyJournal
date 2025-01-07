@@ -106,7 +106,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <?php
 //set variable username dan password dummy
 $username = "admin";
-$password = "123456";
+$password = "admin123";
 
 //check apakah ada request dengan method POST yang dilakukan
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
